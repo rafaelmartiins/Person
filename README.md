@@ -1,7 +1,6 @@
 # CRUD de Pessoa em C# com ASP.NET Core e SQLite
 Este projeto é uma API REST para cadastro de pessoas, utilizando C#, ASP.NET Core e SQLite como banco de dados.
 <br/>
-<br/>
 
 ### 🔧 Tecnologias Utilizadas
     - C#
@@ -9,7 +8,6 @@ Este projeto é uma API REST para cadastro de pessoas, utilizando C#, ASP.NET Co
     - Entity Framework Core
     - SQLite
     - Swagger
-<br/>
 <br/>
 
 ### 📂 Organização do Projeto
@@ -22,18 +20,15 @@ Este projeto é uma API REST para cadastro de pessoas, utilizando C#, ASP.NET Co
     - Program.cs          # Inicialização da aplicação
     - person.Sqlite       # Banco de Dados SQLite
 <br/>
-<br/>
 
 ### 🗂️ Banco de Dados
 Este projeto utiliza SQLite com Entity Framework Core. O arquivo do banco é criado na raiz do projeto como person.Sqlite.
-<br/>
 <br/>
 
 ### 🔍 Observações
 - Este projeto foi criado para estudos de C# e ASP.NET Core.
 - A funcionalidade de desativação apenas altera o nome da pessoa para "desativado".
 - Utiliza Minimal APIs.
-<br/>
 <br/>
 
 ### 📄 Licença
