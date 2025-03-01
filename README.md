@@ -32,6 +32,7 @@ Este projeto utiliza SQLite com Entity Framework Core. O arquivo do banco é cri
 - Este projeto foi criado para estudos de C# e ASP.NET Core.
 - A funcionalidade de desativação apenas altera o nome da pessoa para "desativado".
 - Utiliza Minimal APIs.
+<br/>
 
 ### 📄 Licença
 Este projeto está licenciado sob os termos da MIT License.
