@@ -1,4 +1,5 @@
 # CRUD de Pessoa em C# com ASP.NET Core e SQLite
+<br/>
 Este projeto é uma API REST para cadastro de pessoas, utilizando C#, ASP.NET Core e SQLite como banco de dados.
 <br/>
 
